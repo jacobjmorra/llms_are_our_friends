@@ -1,0 +1,8 @@
+Genre network -> ability to work with other mediums (ex. musical score) 
+* LLMs to interesting recommendation algorithms 
+* A lot of the current recommendation algorithms are older
+* Interesting to give people recommendations based on networks (transitively associating other networks) 
+* Then might have ensemble method with LLMs and other models (i.e. you liked music in X, you might like music in Y) 
+
+* Currently, tie between screenplay and genre network is the strongest
+* tying back to reviews: once you get LLMs to look at enough reviews, can it predict which outlet the review came from, or 
